@@ -43,6 +43,7 @@ main{
     height: 108px;
     padding-top: 40px;
     text-align: center;
+    overflow-y: hidden;
 }
 
 .header > .atalhos > a{
@@ -238,7 +239,6 @@ main{
     font-weight: 700;
     color: #111826;
     margin-left: 40px;
-
 }
 
 .sobre > .interno{
@@ -247,7 +247,7 @@ main{
 
 .sobre > .interno > img{
     position: absolute;
-    top: 137%;
+    top: 141%;
     left: 13%;
 }
 
@@ -277,3 +277,187 @@ main{
     font-weight: 700;
     gap: 5px;
 }
+
+.atuacao{
+    margin-top: 250px;
+    margin-left: 264px;
+    width: 1400px;
+}
+
+.atuacao > h4{
+    font-size: 13pt;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+    color: #4C5D73;
+    margin-bottom: 15px;
+}
+
+.atuacao > h1{
+    font-size: 27pt;
+    font-weight: 700;
+    color: #111826;
+    margin-bottom: 50px;
+}
+
+.atuacao > .dentro{
+    display: flex;
+    gap: 90px;
+    padding-left: 40px;
+}
+
+.atuacao > .dentro > .lugar{
+    width: 270px;
+    height: 208px;
+    background-color: white;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.atuacao > .dentro > .lugar > p{
+    margin-top: 17px;
+}
+
+.planos{
+    margin-top: 70px;
+    margin-left: 264px;
+    width: 1400px;
+}
+
+.planos > h4{
+    font-size: 13pt;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+    color: #4C5D73;
+    margin-bottom: 15px;
+}
+
+.planos > h1{
+    font-size: 27pt;
+    font-weight: 700;
+    color: #111826;
+    margin-bottom: 50px;
+}
+
+.planos > .plano{
+    display: flex;
+    gap: 90px;
+    padding-left: 40px;
+}
+
+.planos > .plano > .caixa{
+    width: 270px;
+    height: 288px;
+    background-color: white;
+    border-radius: 8px;
+    padding-left: 25px;
+    padding-top: 30px;
+}
+
+.planos > .plano > .popula > .caixa{
+    width: 270px;
+    height: 288px;
+    background-color: white;
+    border-radius: 8px;
+    padding-left: 25px;
+    padding-top: 30px;
+}
+
+.planos > .plano > .popula > #populars{
+    width: 137px;
+    height: 37px;
+    background-color: #94F2E9;
+    color: #304F8C;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 25%;
+    margin-top: -50px;
+}
+
+.planos > .plano{
+    width: 270px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.planos > .plano > .caixa > h4{
+    color: #111826;
+    font-weight: 500;
+    font-size: 17px;
+    margin-bottom: 15px;
+}
+
+.planos > .plano > .caixa > p{
+    color: #4C5D73;
+    line-height: 22px;
+    margin-top: 25px;
+}
+
+.planos > .plano > .caixa > .valor{
+    display: flex;
+    gap: 2px;
+}
+
+.planos > .plano > .caixa > .valor > p{
+    margin-top: 3px;
+}
+
+.planos > .plano > .caixa > .botao{
+    margin-bottom: -20px;
+}
+
+
+.planos > .plano > .caixa > button{
+    width: 220px;
+    height: 48px;
+    border: 1px solid #304F8C;
+    background-color: transparent;
+    color: #304F8C;
+    font-size: 13pt;
+    font-weight: 700;
+    border-radius: 8px;
+    margin-top: 40px;
+}
+
+.planos > .plano > .caixa > #botao1{
+    margin-top: 15px;
+}
+
+.planos > .plano >.caixa > #botao2{
+    margin-top: 36px;
+}
+
+.planos > .plano > .caixa > #botao3{
+    margin-top: 35px;
+}
+
+.planos > .plano > .caixa > #botao4{
+    margin-top: 55px;
+}
+
+.planos > .plano > #popular > h4{
+    color: white;
+}
+
+.planos > .plano > #popular > p{
+    color: white;
+}
+
+.planos > .plano > #popular{
+    background-color: #304F8C;
+    color: white;
+    position: relative;
+}
+
+.planos > .plano > #popular > button{
+    background-color: white;
+}
+
