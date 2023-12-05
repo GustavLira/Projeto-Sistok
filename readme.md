@@ -23,7 +23,8 @@ O principal objetivo deste projeto é criar uma página inicial atraente e funci
 Você pode conferir o design da interface no [link do Figma](https://www.figma.com/file/cdQo2CbeIapvxbMBM9UR3C/Sistok-Home-Page-Concept-(Community)?type=design&node-id=1-2&mode=design&t=MZnmgMuAI0mPeFiN-0) para ter uma visão detalhada de como o projeto se parece.
 
 ## Preview
-![preview](https://github.com/GustavLira/Projeto-Sistok/assets/140671152/228c545c-4be0-4af6-bb23-37757eb90290)
+![sistok](https://github.com/GustavLira/Projeto-Sistok/assets/140671152/d5c603b5-961f-4e06-9c4b-58d7a476d25b)
+
 
 
 
