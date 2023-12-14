@@ -11,7 +11,7 @@ O principal objetivo deste projeto é criar uma página inicial atraente e funci
 - CSS: Para o estilo e layout da página.
 - Git e GitHub: Para o controle de versão e hospedagem do código.
 - Figma: Para a clonagem do design.
-- Vercel: Para implantação e hospedagem.
+- Vercel: Para implantação e hospedagem. 
 
 ## Desafios
 - Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes desafios:
